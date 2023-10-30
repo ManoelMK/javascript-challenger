@@ -3,7 +3,7 @@ const {
   concatStrings,
   numberString,
   existKeyword,
-  sumAllItemsInArray,
+  sumAllItemsInArray, 
   verifyUserInArray,
   sumNumber,
   verifyNumberIsPairOrOdd,
